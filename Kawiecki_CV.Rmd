@@ -1,0 +1,178 @@
+---
+title: "Anna Kawiecki CV"
+author: "Anna Kawiecki"
+email: akawiecki@ucdavis.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+
+github: akawiecki
+jobtitle: PhD Epidemiology (expected 2022), UC Davis
+linkcolor: blue
+orcid: null
+fontawesome: yes
+phone: "+1 (530) 760-7123"
+address: 
+updated: yes
+urlcolor: blue
+
+---
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+
+library(fontawesome)
+```
+
+##### SUMMARY OF PROFESSIONAL EXPERIENCE
+I am a veterinarian training as a research epidemiologist with a focus on vector-borne diseases with a background that encompasses clinical, molecular and quantitative experience. I have extensive experience in conducting field work and managing data in large field-based reserach operations, performing molecular diagnostic work with arboviruses in both BSL-2 and BSL-3 conditions and mosquito colony maintenance. Currently I am investigating arbovirus transmission dynamics by building statistical, mathematical and spatio-temporal models.
+
+***  
+
+# EDUCATION
+
+University of California, Davis, **Ph.D. Epidemiology**  \hfill expected 2022
+
+ \hfill Davis, California
+
+Louisiana State University, **M.Sc. Master in Veterinary and Biomedical  Sciences** \hfill 2017 
+
+\hfill Baton Rouge, Louisiana  
+
+Universidad Complutense de Madrid, **D.V.M** \hfill 2013 
+
+\hfill Madrid, Spain 
+
+ ***    
+
+# EMPLOYMENT    
+
+University of California, Davis, **Graduate student researcher** \hfill 2018- present 
+
+\hfill Davis, California 
+
+- As a **researcher**, I am working on improving the measurement of vector control efficacy and the application of vector control interventions. I am currently modeling how the efficacy of ultra-low volume indoor insecticide spraying varies over space and time, to determine if this intervention has an effect on the vector density in neighboring areas and, if so, the duration of this effect.
+
+
+University of California, Davis, **Data Systems Analyst** \hfill 2017- 2018  
+
+\hfill Iquitos, Peru 
+
+- I was a **data manager and analyst** for both a clinical vector control trial (“Spatial Repellents for Arbovirus Control”), a UC Davis-University of Notre Dame collaboration, and an NIH funded P01 grant (“Quantifying Heterogeneities in Dengue Transmission Dynamics”) led by Dr. Thomas Scott, based in Iquitos, Peru. 
+I developed and deployed a mobile data collection application custom-made for this purpose and setting using CommCare, an application-building software, and was heavily involved in the training and troubleshooting with our field teams to get the app running. I also maintained and improved a database of 15,000 human participants and over 100,000 mosquito samples using MySQL, PostreSQL, QGIS and R, and produced project reports that optimized the implementation of the field activities. 
+
+*University of California, San Diego*
+
+**Undergraduate Student Researcher** \hfill 2011--2013
+
+- As a **research assistant** in the **Department of Global Public Health**, I translated and edited HIV/STI participant surveys in Spanish and in English, and aided in data cleaning. I also instigated protocol for GIS analysis of study location data, and conducted general clerical tasks for multiple international epidemiological studies of HIV/STI transmission.
+- As a **research assistant** at the **Scripps Institute of Oceanography**, I developed an open-source protocol using GRASS GIS to analyzed retrospective seasonal change of tide-pool algae ecology in response to seasonal and anomalous climate fluctuations. I also designed the data collection methodology and identification protocols for benthic layer marine species identification survey using a Remote Operated Vehicle (ROV) video collection apparatus.  
+
+***  
+
+##### PUBLICATIONS
+**Donnelly, M.P.**, S. Kluh, R. Snyder, C.M. Barker. Quantifying socioeconomic heterogeneities in the distribution of *Aedes aegypti* among California Households. 2019 *PLoS Neglected Tropical Diseases.* 2019 (In review)
+
+**Donnelly, M.P.**, B. Main, S. Kluh, C.M. Barker. *Aedes aegypti* blood and sugar-feeding patterns in Los Angeles, California, *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2019 (In review)
+
+Kawiecki, A., W. Elson, **M.P. Donnelly**, J. Schwarz, J. Simpson, T. Scott, N. Achee, A. Morrisson. Use of mobile data collection tools to improve implementation of epidemiological trials in Iquitos, Peru. *American Journal of Tropical Medicine and Hygiene.* 2019 (In prep)
+
+**Donnelly, M.P.**, S. Kluh, C.M. Barker. Quantifying socioeconomic heterogeneities in the risk of local Zika and dengue outbreaks in California. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2018;86:84-85  
+
+**Donnelly, M.P.**, M. Marcantonio, F. Melton, C.M. Barker. Mapping past, present, and future climatic suitability for invasive *Aedes aegypti* in the United States: a process-based modeling approach. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2017;85:18-20  
+
+**Donnelly, M.P.**, M. Marcantonio, F. Melton, C.M. Barker. Mapping climatic suitability for invasive *Aedes aegypti* and *Aedes albopictus* in the United States: a process-based modeling approach. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2016;4:92:94
+
+Simpson, J.K., **M.P. Donnelly**, M. Marcantonio, C.M. Barker. CalSurv Gateway: survey results and new tools for invasive *Aedes*, *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2016;84:69:70 
+
+***  
+
+##### TEACHING EXPERIENCES
+- **Teaching Assistant:** Disease Ecology (VME 158) \hfill Spring 2019
+
+- **Teaching Assistant:** Analysis and Interpretation of Epidemiological Data (EPI 208) \hfill Fall 2018
+
+- **Teaching Assistant:** Spatial Epidemiology (EPI 223) \hfill Spring 2017
+
+- **Teaching Assistant:** Introduction to Biology: Biodiversity (BIS2C) \hfill Fall 2014  
+
+***  
+
+##### GRANTS & AWARDS
+- **($30,000)** Pacific Southwest Center of Excellence in Vector-borne Diseases fellowship \hfill 2019
+- **($8,500)** University of California Global Health Institute, Planetary Health Center of Expertise Summer fellowship \hfill 2018
+- **($5,000)** University of California, Davis Graduate Group in Epidemiology fellowship \hfill 2014
+- **($2,000)** Summer Institute in the Statistics and Modeling of Infectious Diseases fellowship (International competition) \hfill 2018
+- *2nd place poster*, Designated Emphasis in the Biology of Vectorborne Diseases Annual Symposium \hfill 2017
+- *National Institutes of Health* Ruth L. Kirschstein National Research Service Award (F31) Applicant (*unfunded*) \hfill 2017
+- *National Institutes of Health* Ruth L. Kirschstein National Research Service Award (F31) Applicant (*unfunded*) \hfill 2017  
+
+***  
+
+##### COMMUNICATION & OUTREACH
+
+**Mentor and applications developer for the Girls Outdoor Adventure in Leadership and Science (GOALS) program** \hfill 2017-present
+
+GOALS seeks to cultivate and embolden the next generation of STEM leaders through a free, immersive, field-based summer science program for high school girls. Ultimately, GOALS seeks to reduce racial and gender gaps in STEM careers by:
+- Minimizing barriers to participation in outdoor education
+- Nurturing interest in knowledge production and scientific inquiry
+- Supporting and guiding career path exploration
+- Teaching tangible skills and frameworks for future scientific learning
+- Providing access to tools and resources for college readiness
+- Creating peer support networks
+
+**Co-founder of the UC Davis Health Policy Journal Club** \hfill 2017-present 
+
+Organized monthly discussions on topics related to health policy in the U.S. Selected relevant books, and facilitated discussions to engage members in conversation. Identified and invited guest speakers to attend club meetings. 
+
+**Guest Lecturer** \hfill 2016-present
+
+Lectured in several junior high and high school classrooms on topics including: epidemiology, vector borne diseases in California, disease ecology, and statistics.  
+
+***  
+
+##### PRESENTATIONS
+Donnelly, M.P, B. Main, C.M. Barker. "Development of a more efficient and cost-effective blood- and sugar-meal assay for mosquitoes." Pacific Southwest Regional Center of Excellence in Vector-Borne Diseases Seminar Series. Davis, CA. February (2019).
+
+Donnelly, M.P, B. Main, C.M. Barker. "Studies on *Aedes aegypti* feeding and risk for local Zika virus transmission in Los Angeles, California." Mosquito and Vector Control Association of California, Burlingame, CA. February (2019).
+
+Donnelly, M.P, C.M. Barker. (Invited Speaker) “Climate suitability for invasive *Aedes aegypti* in the United States.” Centers for Disease Control, BRACE Methods Community of Practice Meeting, 10 October (2018).
+
+Donnelly, M.P., S. Kluh, C.M. Barker. “Quantifying sociodemographic heterogeneities in the risk of local Zika and dengue outbreaks in California”, American Society for Tropical Medicine and Hygiene. New Orleans, LA. November (2018).
+
+Donnelly, M.P., S. Kluh, C.M. Barker. “Quantifying sociodemographic and human behavioral heterogeneities in *Aedes aegypti* abundance in Los Angeles, California”, Designated Emphasis in the Biology of Vectorborne Diseases Annual Symposium. Davis, CA. May (2018).  
+
+Donnelly, M.P., S. Kluh, C.M. Barker. “Quantifying sociodemographic heterogeneities in *Aedes aegypti* abundance in Los Angeles, California”, Mosquito and Vector Control Association of California, Monterrey, CA. January (2018).  
+
+Donnelly, M.P., S. Kluh, C.M. Barker. “Socioeconomic drivers of *Aedes aegypti* abundance in Los Angeles, California”, American Society for Tropical Medicine and Hygiene. Baltimore, MD. November (2017).
+
+Donnelly, M.P., M. Marcantonio, M. Neteler, F. Melton, A. Rizzoli, C.M. Barker. “A mechanistic modeling approach for mapping future climatic suitability for invasive *Aedes aegypti* in the United States”, Designated Emphasis in the Biology of Vectorborne Diseases Annual Symposium. Davis, CA. May (2017). 
+
+Donnelly, M.P., M. Marcantonio, M. Neteler, F. Melton, A. Rizzoli, C.M. Barker. “Mapping past, present, and future climatic suitability for invasive *Aedes aegypti* and *Aedes albopictus* in the United States: a process-based modeling approach”, Mosquito and Vector Control Association of California. San Diego, CA. January (2017). 
+
+Donnelly, M.P., M. Marcantonio, M. Neteler, F. Melton, A. Rizzoli, C.M. Barker. “Current and future climatic suitability for invasive *Aedes aegypti* in the United States”, American Geophysical Union. San Francisco, CA. December (2016).
+
+Mosquitoes: Vector Biology and Epidemiology, Symposium moderator, American Society for Tropical Medicine and Hygiene. Atlanta, GA. November (2016). 
+
+Donnelly, M.P., M. Marcantonio, M. Neteler, F. Melton, A. Rizzoli, C.M. Barker. “Mapping past, present, and future climatic suitability for invasive *Aedes aegypti* in the United States: a process-based modeling approach”, American Society for Tropical Medicine and Hygiene. Atlanta, GA. November (2016).
+
+Donnelly, M.P., M. Marcantonio, M. Neteler, F. Melton, A. Rizzoli, C.M. Barker. “Mapping climatic suitability for invasive *Aedes aegypti* and *Aedes albopictus* in the United States: a process-based modeling approach”. Mosquito and Vector Control Association of California. Sacramento, CA. February (2016).   
+
+***
+
+##### LANGUAGES
+- English (fluent)
+- Spanish (fluent)  
+
+***  
+
+##### PROFESSIONAL AFFILIATIONS
+- American Society for Tropical Medicine and Hygiene (ASTMH)
+- American Committee of Medical Entomology (ACME)
+- Mosquito and Vector Control Association of California (MVCAC)
+
+
+
